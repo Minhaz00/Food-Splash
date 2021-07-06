@@ -1,0 +1,62 @@
+body{
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size:50px;
+    
+}
+.link-button{
+    background-image: linear-gradient(red,tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.name{
+    color: red;
+}
+.introduction img{
+    width: 350px;
+    height: 400px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.introduction p{
+    color: white;
+    text-align: justify;
+}
+.introduction{
+    background-image: url(images/Project\ Cover2.png);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 100% ;
+    color: white;
+}
+.container{
+    display: flex;
+}
+.half-scale{
+    width: 50%;
+    padding: 30px;
+    margin: 40px 1px 1px 40px;
+}
+
+.About-me img{
+    height: 400px;
+    width: 350px;
+    border-radius: 5px;
+    padding-left: 50px;
+}
+.About-me{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-attachment:cover;
+    background-size: 100%;
+}
+.About-me p{
+    text-align: justify;
+    padding-left:0px;
+    padding-right: 20px;
+}
