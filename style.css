@@ -25,7 +25,7 @@ h1 {
 ul {
     list-style-type: none;
     margin: 0;
-    padding-left: 550px;
+    padding-left: 42%;
     overflow: hidden;
     background-color: #333;
 
@@ -124,7 +124,7 @@ li a {
 }
 
 #recipies a {
-    margin-left: 600px;
+    margin-left: 45%;
 }
 
 .followers-section h1 {
@@ -184,7 +184,6 @@ li a {
     text-align: center;
     color: whitesmoke;
     padding: 5px 50px 40px 20px;
-    ba
 }
 
 #footer h2 {
